@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "dLl4UWx8RGbdfB_ixnBrGcBDXOs",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Fnre0Rbox02Gk92egnfC7MzX_h0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wGR7JdgWu4o"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T09:01:18Z",
+                "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+                "title": "[#WSWF] 쿄카... 관절이 있는 거 맞나요 #월드오브스트릿우먼파이터",
+                "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f 전 세계 쎈 언니들의 자존심을 건 글로벌 춤 싸움 〈월드 오브 스트릿 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wGR7JdgWu4o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wGR7JdgWu4o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wGR7JdgWu4o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The CHOOM (더 춤)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T09:01:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9iN0ZawaSfVpVzihwlhnSNCWPqY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o5LAhs2HoGc"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T05:54:39Z",
+                "channelId": "UCGbkN-3JpOct4KuEv59NF0Q",
+                "title": "귀국하는 이재명 대통령께 대하여 #경례",
+                "description": "이재명 #g7 #정상회의 #전용기 #경례 #귀국 국회티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소! 콘텐츠 왕국 More clips ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o5LAhs2HoGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o5LAhs2HoGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o5LAhs2HoGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠키타카 MKTK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T05:54:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "c3u6cn0EpRoL8SW6PLKcohovnfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MDFX89rrmdY"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T06:37:46Z",
+                "channelId": "UCGbkN-3JpOct4KuEv59NF0Q",
+                "title": "스윗한 대통령",
+                "description": "이재명 #대통령 #윤석열 #비교 #김건희 #전용기 #우산 국회티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소! 콘텐츠 왕국 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDFX89rrmdY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDFX89rrmdY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDFX89rrmdY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠키타카 MKTK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T06:37:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hsMkHDMAyxdzcmdh0Cw06StG3jU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ugCC_5S8jXQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-17T15:25:12Z",
+                "channelId": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+                "title": "GIVE THE PEOPLE WHAT THEY WANT! 👊💥",
+                "description": "Where to watch WWE: https://wwe.com/wheretowatch Watch WWE on Netflix: http://netflix.com/WWE Watch WWE on Peacock: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ugCC_5S8jXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ugCC_5S8jXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ugCC_5S8jXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WWE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-17T15:25:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K68uTrIefzdJpMa2_YTLK5bAZUU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YKzuw3XMs_I"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T02:24:52Z",
+                "channelId": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+                "title": "All eyes on Blake Monroe and she&#39;s ready to take over! #WWENXT",
+                "description": "Where to watch WWE: https://wwe.com/wheretowatch Watch WWE on Netflix: http://netflix.com/WWE Watch WWE on Peacock: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKzuw3XMs_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKzuw3XMs_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKzuw3XMs_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WWE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T02:24:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Fy7cen6eKSeXbHXzyu-xWA9YtU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cHagH7JuVi4"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T08:44:16Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "&#39;장모&#39; 먼저.. #Shorts (MBC뉴스)",
+                "description": "ㅤ #MBC #뉴스 #뉴스데스크 #MBC뉴스 #뉴스투데이 ㅤ c MBC & iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cHagH7JuVi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cHagH7JuVi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cHagH7JuVi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T08:44:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wosr10jJzrEjdKDkCltDrUyMvoU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C-IQf7k0STw"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T08:40:54Z",
+                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+                "title": "&quot;주진우가 날 고발하겠다더라..주 의원님, 답변은요?&quot; 역공 #JTBC #Shorts",
+                "description": "오늘(18일) 강득구 더불어민주당 의원이 기자회견을 열었습니다. 지금, 이슈의 현장을 실시간으로! ☞JTBC 모바일라이브 시청하기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C-IQf7k0STw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C-IQf7k0STw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C-IQf7k0STw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T08:40:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gFJcuCpQ-6pkTL2Wzv2pGHTycSU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uTjojhRQIeA"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T13:01:39Z",
+                "channelId": "UCvEEeBssb4XxIfWWIB8IjMw",
+                "title": "#율 님 쫓아 Hide and seek🫣#KISSOFLIFE #키스오브라이프 #NATTY #나띠 #YUL #Lips_Hips_Kiss #LHK_Challenge #Shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uTjojhRQIeA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uTjojhRQIeA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uTjojhRQIeA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KISS OF LIFE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T13:01:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "B7iiX_qg_2C0lzr5BPr5L0K39qI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AaK22W85jlk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T06:00:07Z",
+                "channelId": "UC14Yc2Qv92DMuyNRlHvpo2Q",
+                "title": "「最後まで化かしていきましょう」／『薬屋のひとりごと』第46話より",
+                "description": "『薬屋のひとりごと』 第2期 第2クール 放送中！ 毎週金曜 23：00～ 日本テレビ系「FRIDAY ANIME NIGHT」にて全国同時放送！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AaK22W85jlk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AaK22W85jlk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AaK22W85jlk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TOHO animation チャンネル",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T06:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1yGhG8qumPJ9FDSvKHRd1DghXtg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LEbDxWMNirM"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T01:38:08Z",
+                "channelId": "UC_pT_Iz6XjuM-eMTlXghdfw",
+                "title": "Fire Grilled Stingray",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LEbDxWMNirM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LEbDxWMNirM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LEbDxWMNirM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Max the Meat Guy",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T01:38:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "E1rFwq-7YNRcWCUVJ3sVO3M2WiE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uxnr_D5eWnc"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T03:29:11Z",
+                "channelId": "UCGbkN-3JpOct4KuEv59NF0Q",
+                "title": "&quot;룰라랑 친해요?&quot;",
+                "description": "국회티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소! 콘텐츠 왕국 More clips are available [구독 좋아요 알림설정]은 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uxnr_D5eWnc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uxnr_D5eWnc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uxnr_D5eWnc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠키타카 MKTK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T03:29:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lv8wPeVKq-emIuscFsbHdFgU5V8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "k9chV9RvEnw"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T11:41:23Z",
+                "channelId": "UCsjD7wxKCD8C62_idZQdGJg",
+                "title": "[#WSWF] 𝙈𝙚𝙨𝙨𝙖𝙜𝙚 𝙛𝙧𝙤𝙢 OSAKA Ojo Gang(오사카 오죠 갱)💚",
+                "description": "WSWF] Message from OSAKA Ojo Gang(오사카 오죠 갱)   오사카 오죠 갱을 응원하신다면 지금, 유튜브 The CHOOM ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k9chV9RvEnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k9chV9RvEnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k9chV9RvEnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The CHOOM (더 춤)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T11:41:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T-piHdFRy6eGRs10qMZnkpmbQAY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zh9Qlvuanmk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-17T23:31:48Z",
+                "channelId": "UCGbkN-3JpOct4KuEv59NF0Q",
+                "title": "이재명과 룰라",
+                "description": "이재명 #룰라 #g7 #정상회의 #단체사진 #브라질 #남아공 #영국 국회티키타카! 콘텐츠왕국! 어른김장하! 지역소생연구소! 콘텐츠 왕국 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zh9Qlvuanmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zh9Qlvuanmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zh9Qlvuanmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "엠키타카 MKTK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-17T23:31:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BkwxuuWFy-2w7MQ4N7pGjQd1GNI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i4hoik3Y4Tk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-17T23:30:30Z",
+                "channelId": "UCSUwTmHIP_rlCTZeQW2oiEg",
+                "title": "Jamás Te Conformes 💼 #Dinero #Finanzas #FinanzasPersonales #Invertir #Inversiones #Trabajo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i4hoik3Y4Tk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i4hoik3Y4Tk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i4hoik3Y4Tk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andres Garza",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-17T23:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pAlDyNIcMaIdbSuZ9q79oaO41hg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y5ADgvDL2hk"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T07:45:07Z",
+                "channelId": "UCZFBnnCCO65xMXOdtFz8CfA",
+                "title": "Wait for it 💀 #sofimanassyan #relatable #friends",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y5ADgvDL2hk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y5ADgvDL2hk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y5ADgvDL2hk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sofi Manassyan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T07:45:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "A5O6Pg8tcHxytmxMMepIpLavVg8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NRoJFAXFio8"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-17T20:55:06Z",
+                "channelId": "UCDmpY3ukz9BI4zS56fG-Y7Q",
+                "title": "They are officially taller than me. #motherdaughter #koreanmom #mixedchildren #blasian #엄마 #딸맘 #혼혈",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NRoJFAXFio8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NRoJFAXFio8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NRoJFAXFio8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lily Petals World 릴리가족",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-17T20:55:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3oN-QKJbd_fXziUln28RBv5VozI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BGhc_hv8p4g"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T05:51:17Z",
+                "channelId": "UCMIHgfLhZASo_1IYH8iLGTg",
+                "title": "와다다다",
+                "description": "shorts #프로야구 #한화이글스 #문현빈 #별의별것.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BGhc_hv8p4g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BGhc_hv8p4g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BGhc_hv8p4g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "별의별것",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T05:51:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KN0RIRlAe4o0J9WWd1e6e1uLPBE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "690hJ3aJutQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T08:00:05Z",
+                "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+                "title": "입체기동장치",
+                "description": "2025년 06월 12일 방송분 (https://www.youtube.com/live/ce7vkdN3GNg?si=FcKbzvNzXRqCPabZ) ▷편집: 7수자.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/690hJ3aJutQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/690hJ3aJutQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/690hJ3aJutQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "침착맨",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T08:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u81apWVTaDF20aABIMB0q6ZLxfo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "g55plw2JPlE"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T08:00:51Z",
+                "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+                "title": "이론상 죽지않는 불멸의 생물",
+                "description": "김블루 VIP멤버쉽 가입하기!! : https://www.youtube.com/channel/UCNzcxCN_Hh_lu5RCSFXKgGQ/join 》김블루 시청자 디코 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g55plw2JPlE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g55plw2JPlE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g55plw2JPlE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "악동 김블루",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T08:00:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YGUKLHnRxENwV55bnoDP_7Ccuig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q7V_ua3yGqg"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-19T05:26:02Z",
+                "channelId": "UClXz2Nus3ASfscB60dC5gxQ",
+                "title": "[AO VIVO] ARRAIÁ DO POVO 2025 - 18 DE JUNHO | BATISTA LIMA, MASTRUZ COM LEITE, SKAMA DE PEIXE E TUKA",
+                "description": "Seja bem-vindo ao canal da TV Band Bahia, aqui você acompanha todas os programas ao vivo, cortes, melhores momentos e ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q7V_ua3yGqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q7V_ua3yGqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q7V_ua3yGqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Band Bahia Oficial",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-19T05:26:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WWUI0tB8ewwsFwjuECnJkoSszvA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UUzieQXBX1I"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T08:04:25Z",
+                "channelId": "UCTdmmBlsMlgouTiZ896hXWw",
+                "title": "Thierry Henry Speaks on His National Team Debut - 15€👕Jerseys You Can&#39;t Miss!",
+                "description": "Grab your favorite football jersey at unbeatable prices! 🏷️⚽ Shop now: https://bit.ly/4jOIhIB Thierry Henry Speaks on His ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UUzieQXBX1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UUzieQXBX1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UUzieQXBX1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andreas Poke",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T08:04:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T0CsLCAfHrynDFTi1k7URBjIHE4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R7oWnKdGjVU"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T13:33:06Z",
+                "channelId": "UCKp8knO8a6tSI1oaLjfd9XA",
+                "title": "[하이라이트] KIA 타이거즈 vs KT 위즈 (2025.6.18)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R7oWnKdGjVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R7oWnKdGjVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R7oWnKdGjVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "기아타이거즈 - 갸티비",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T13:33:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sOdc3DGIYVfoeaubNGXqYZJ3hn4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fErdXQ19XPA"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T10:00:59Z",
+                "channelId": "UCd4BxCKyMHG2J0X1SerTPaQ",
+                "title": "언니들 사이에서 어린 매력 발산~ 권민정 욕하는 거 들어볼래?",
+                "description": "뉴스 #더워룸 #시사 #이동형tv #이이제이 #정치 #언론 #저널리즘.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fErdXQ19XPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fErdXQ19XPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fErdXQ19XPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "이동형TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T10:00:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MfE-qU4O2aOp6OBzpJMy37c2DlQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fKZPnYUTf-w"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T10:03:35Z",
+                "channelId": "UCNKomgId0-uTA-vVLM9v1pw",
+                "title": "✈️🕵️ Silencio en el cielo | China e Irán ocultan operación secreta",
+                "description": "china #irán #aviación #vuelos #militar #conflicto #geopolítica #transpondedor #vuelofantasma #radar #armamento #alerta ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fKZPnYUTf-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fKZPnYUTf-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fKZPnYUTf-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Intereconomía",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T10:03:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9JOzVniirm_g1TZfK32NHYDFVHs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vvYyAnKRYWU"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T07:10:54Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "[이슈+] 4년 끌고도 &quot;증거 없다&quot;더니‥한 달 만에 &#39;김건희 녹취&#39; 수백개 (2025.06.18/뉴스외전/MBC)",
+                "description": "출연: 양지민 대법원 국선변호인/ 문소현 기자 Q. 김건희 녹취 수백 개 확보‥주가조작 알았나? 김건희 육성 파일‥\"수익 40% 주기로\" ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vvYyAnKRYWU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vvYyAnKRYWU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vvYyAnKRYWU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T07:10:54Z"
+            }
+        }
+    ]
+}
